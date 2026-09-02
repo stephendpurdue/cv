@@ -1,6 +1,6 @@
-PWD c:\Users\steph\OneDrive\Desktop\Documents\CVs
+PWD c:\Users\steph\OneDrive\Desktop\Documents\CVs\LATEX
 INPUT C:\Users\steph\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\steph\OneDrive\Desktop\Documents\CVs\SP MASTER CV.tex
+INPUT c:\Users\steph\OneDrive\Desktop\Documents\CVs\LATEX\SP MASTER CV.tex
 OUTPUT SP MASTER CV.log
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
