@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.2)  16 SEP 2026 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.2)  16 SEP 2026 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -620,35 +620,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 195.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 204.
+(hyperref)                removing `\@ifnextchar' on input line 212.
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 206--207
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 214--215
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 212--213
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 220--221
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 218--219
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 226--227
 []  
  []
 
 
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 224--225
+Overfull \hbox (0.55968pt too wide) in paragraph at lines 232--233
 []  
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 234.
+(hyperref)                removing `\@ifnextchar' on input line 242.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 249.
+(hyperref)                removing `\@ifnextchar' on input line 257.
 
 [1
 
@@ -663,13 +663,13 @@ Package rerunfilecheck Info: File `"SP MASTER CV".out' has not changed.
 Here is how much of TeX's memory you used:
  25312 strings out of 467871
  487181 string characters out of 5418377
- 877189 words of memory out of 5000000
+ 880189 words of memory out of 5000000
  53771 multiletter control sequences out of 15000+600000
  651400 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,9n,104p,470b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on "SP MASTER CV.pdf" (1 page, 66343 bytes).
+Output written on "SP MASTER CV.pdf" (1 page, 66818 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
