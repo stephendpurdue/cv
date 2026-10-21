@@ -124,10 +124,10 @@
 }
 
 
-\newcommand{\resumeProjectHeading}[2]{
+\newcommand{\resumeProjectHeading}[4]{
     \item
-    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
-      \normalsize#1 & \textbf{\normalsize #2}\\
+    \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
+      \normalsize\textbf{#1} \textbar{} \textit{#2} \textbar{} \textit{#3} & \textbf{\normalsize #4}\\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -210,27 +210,27 @@
  %-----------PROJECTS-----------
 \section{\color{black}PROJECTS}    
     \resumeSubHeadingListStart
-      \resumeProjectHeading{\textbf{Stock Market Prediction Engine}}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Stocked}{Stock Market Prediction Engine}{Python, PyTorch, Docker Compose}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
         \resumeItem{\normalsize{Developed an LSTM model in PyTorch to forecast daily stock prices from historical time-series analysis data, reducing prediction error by 81\% versus a moving-average baseline. Containerised the full stack with Docker Compose, reducing local setup time to under 5 minutes.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{\textbf{UNIX Shell}}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Shelly}{Lightweight UNIX Shell}{Python, Linux}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Developed a UNIX style shell in Python, implementing command parsing, built-in commands, environment-variable handling, and input/output redirection. Developed a modular, testable architecture using OS-level process and file-system APIs, stengthening my understanding of Linux systems programming.}}
+        \resumeItem{\normalsize{Built a UNIX style command shell using Python, implementing command parsing, built-in commands, environment-variable handling, and input/output redirection. Developed a modular, testable architecture using OS-level process and file-system APIs, stengthening my understanding of Linux systems programming.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{\textbf{Procedural Generation Algorithm}}{\href{https://github.com/stephendpurdue/Exodus}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Exodus}{Procedural Generation}{Unity, C\#}{\href{https://github.com/stephendpurdue/Exodus}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
         \resumeItem{\normalsize{Engineered a scalable procedural generation system in Unity using C\# and Binary Space Partitioning to recursively subdivide space into room layouts and connective corridors in linear time. Reduced level build-time by 77\% by implementing modular, parameter-driven logic.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{\textbf{Adaptive Combat Simulator}}{\href{https://github.com/stephendpurdue/Synapse}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Synapse}{Adaptive Combat Simulator}{Python, C\#, TensorFlow, Unity}{\href{https://github.com/stephendpurdue/Synapse}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Developed an adaptive combat simulator, achieving a 75\% win rate against a baseline agent, with overall reward improving from 32\% to 87\%, measured over 30 unique evaluation simulations by training a PPO-agent using Python and TensorFlow.}}
+        \resumeItem{\normalsize{Developed an adaptive combat simulator in Unity using C\#, Python, and TensorFlow, achieving a 75\% win rate against a baseline agent, with overall reward improving from 32\% to 87\%, measured over 30 unique evaluation simulations by training a PPO Reinforcement Learning agent.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
@@ -246,7 +246,10 @@
     \textbf{\normalsize{Languages:}}{ \normalsize{Python, C\#, C/C++, SQL, Bash, Elixir, TypeScript}} \\
       \vspace{1.2pt}
       
-    \textbf{\normalsize{Technologies:}}{ \normalsize{Linux, GitHub, Docker, AWS, CI/CD}} \\
+    \textbf{\normalsize{Technologies:}}{ \normalsize{Linux, Git, REST APIs}} \\
+      \vspace{1.2pt}
+
+    \textbf{\normalsize{Cloud \& DevOps:}}{ \normalsize{Docker, Kubernetes, AWS, CI/CD}} \\
       \vspace{1.2pt}
 
     \textbf{\normalsize{Machine Learning:}}{ \normalsize{ PyTorch, TensorFlow, scikit-learn, NumPy, Pandas}} \\

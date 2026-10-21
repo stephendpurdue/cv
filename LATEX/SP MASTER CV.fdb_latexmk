@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1791834529.99131 "c:/Users/steph/OneDrive/Desktop/Documents/CVs/LATEX/SP MASTER CV.tex" "SP MASTER CV.pdf" "SP MASTER CV" 1791834530.71682 0
+["pdflatex"] 1792612610.95817 "c:/Users/steph/OneDrive/Desktop/Documents/CVs/LATEX/SP MASTER CV.tex" "SP MASTER CV.pdf" "SP MASTER CV" 1792612611.68832 0
   "C:/Users/steph/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1790493482 170133 a21fa1934e3116f48f5ed6c02f78ec41 ""
   "C:/Users/steph/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1788367457 13333486 ce61f5db282ff1bbce65ac7dc237a332 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -28,6 +28,7 @@
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb" 1136853348 33799 604d2ddf05dbd278eb243a128eb032ce ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb" 1136853348 34869 e1ce30bc89749102259639e60ab677b3 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb" 1136853348 35118 a8551d23cfb4fcceb64f161610e925d2 ""
+  "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/vf/bitstrea/charter/bchb7t.vf" 1136772254 1372 ea6b112e4d27477183c2c2a90a3b7b01 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/vf/bitstrea/charter/bchbc7t.vf" 1136772254 1948 8756c185d16c133ab8b62dca88f95869 ""
@@ -161,6 +162,7 @@
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1756451144 325 f9f16d12354225b7dd52a3321f085955 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty" 1369148873 2867 05b418f78b224ec872f5b11081138605 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/charter.sty" 1585926771 869 9832f7748dc52a9fad0fb6beea4da041 ""
+  "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omsbch.fd" 1585253778 595 0b35c587a8acb08219087104826320aa ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1bch.fd" 1585253778 1009 f834400c020280927efcb3c6f4fbdfbc ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
@@ -172,10 +174,10 @@
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/steph/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "SP MASTER CV.aux" 1791834530 892 6bc718711a78adddc4bb29d02b488b46 "pdflatex"
-  "SP MASTER CV.out" 1791834530 603 b2ce8c2357aa4c9f930f3bb522a690fd "pdflatex"
-  "SP MASTER CV.tex" 1791834529 9538 d26bef5a34381a534e7ff504abdcff78 ""
-  "c:/Users/steph/OneDrive/Desktop/Documents/CVs/LATEX/SP MASTER CV.tex" 1791834529 9538 d26bef5a34381a534e7ff504abdcff78 ""
+  "SP MASTER CV.aux" 1792612611 892 6bc718711a78adddc4bb29d02b488b46 "pdflatex"
+  "SP MASTER CV.out" 1792612611 603 b2ce8c2357aa4c9f930f3bb522a690fd "pdflatex"
+  "SP MASTER CV.tex" 1792612610 9559 9cb2bf6a06c221fe76810681ff18d6df ""
+  "c:/Users/steph/OneDrive/Desktop/Documents/CVs/LATEX/SP MASTER CV.tex" 1792612610 9559 9cb2bf6a06c221fe76810681ff18d6df ""
   (generated)
   "SP MASTER CV.aux"
   "SP MASTER CV.log"

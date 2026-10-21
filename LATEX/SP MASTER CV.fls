@@ -309,6 +309,9 @@ INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy7.tfm
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omsbch.fd
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omsbch.fd
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omsbch.fd
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT C:\Users\steph\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -329,6 +332,8 @@ INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bch
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchri7t.vf
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri8r.tfm
 INPUT SP MASTER CV.aux
 INPUT .\SP MASTER CV.out
 INPUT .\SP MASTER CV.out
@@ -338,5 +343,7 @@ INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\steph\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb

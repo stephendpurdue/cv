@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.2)  12 OCT 2026 20:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.2)  21 OCT 2026 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -622,25 +622,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 211.
 
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 213--214
-[]  
- []
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 219--220
-[]  
- []
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 225--226
-[]  
- []
-
-
-Overfull \hbox (0.55968pt too wide) in paragraph at lines 231--232
-[]  
- []
+LaTeX Font Info:    Trying to load font information for OMS+bch on input line 213.
+(C:\Users\steph\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsbch.fd
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 213.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -648,7 +635,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 261.
+(hyperref)                removing `\@ifnextchar' on input line 264.
 
 [1
 
@@ -661,17 +648,17 @@ Package rerunfilecheck Info: File `"SP MASTER CV".out' has not changed.
 (rerunfilecheck)             Checksum: B2CE8C2357AA4C9F930F3BB522A690FD;603.
  ) 
 Here is how much of TeX's memory you used:
- 25312 strings out of 467871
- 487181 string characters out of 5418377
- 879189 words of memory out of 5000000
- 53771 multiletter control sequences out of 15000+600000
- 651400 words of font info for 78 fonts, out of 8000000 for 9000
+ 25333 strings out of 467871
+ 487562 string characters out of 5418377
+ 880210 words of memory out of 5000000
+ 53788 multiletter control sequences out of 15000+600000
+ 652620 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,9n,104p,470b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on "SP MASTER CV.pdf" (1 page, 66991 bytes).
+<C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on "SP MASTER CV.pdf" (1 page, 76870 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
