@@ -173,11 +173,11 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Royal Holloway, University of London}{London, UK}
-      {MSc, Artificial Intelligence}{2026 - Expected 2027}
+      {Master of Science, Artificial Intelligence}{2026 - Expected 2027}
     \vspace{-2pt}
      \resumeSubheading
       {University of Winchester}{Winchester, UK}
-      {BSc, Computer Game Development}{2023 - 2026}
+      {Bachelor of Science, Computer Game Development}{2023 - 2026}
   \resumeSubHeadingListEnd
   \vspace{-10pt}
 
@@ -189,11 +189,12 @@
 
   \resumeSubheading
       {Corvian}{2026 - Present}
-      {Founding Engineer}{London, UK} 
+      {Founder}{Southampton, UK} 
       \resumeItemListStart
-            \resumeItem{\normalsize{Drove 100\% of technical strategy and execution, leading the design and creation of a scalable kitchen management system using Python, FastAPI, and TypeScript.}}
-            \resumeItem{\normalsize{Personally implemented Docker containerisation, AWS caching and load balancing, and Stripe payments for an early-stage, all-in-one kitchen management tool that scans invoices and tracks gross profit margins in real time.}}  
-      \resumeItemListEnd  
+            \resumeItem{\normalsize{Sole engineer at an early-stage startup; designed and shipped a scalable all-in-one kitchen management system to track invoices, recipes, and costing using Python, FastAPI, and TypeScript.}}
+            \resumeItem{\normalsize{Reduced latency by 76\% by implementing AWS ElastiCache and improved scalability by implementing AWS Load Balancing. Designed and implemented a REST API with error handling and automated tests to support reliable service.}}
+            \resumeItem{\normalsize{Implemented an AWS Lambda function to securely transfer scanned invoice files to Amazon S3, validating file formats and metadata, applying least-privilege IAM permissions, and organising objects by date and business for reliable retrieval and auditability.}}
+            \resumeItemListEnd  
   
   \resumeSubheading
       {Mustang Group}{2021 - Present}
@@ -210,21 +211,21 @@
  %-----------PROJECTS-----------
 \section{\color{black}PROJECTS}    
     \resumeSubHeadingListStart
-      \resumeProjectHeading{Stocked}{Stock Market Prediction Engine}{Python, PyTorch, Docker}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Shelly}{Lightweight UNIX Shell}{Python, Linux}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Developed an LSTM model in PyTorch to forecast daily stock prices from historical time-series analysis data, reducing prediction error by 81\% versus a moving-average baseline. Containerised the full stack with Docker Compose, reducing local setup time to under 5 minutes.}}
+        \resumeItem{\normalsize{Built a modular Python UNIX-style shell with command parsing, built-ins, environment variables, and I/O redirection. Developed unit tests for command parsing, tokenisation, built-in commands, environment-variable expansion, and I/O redirection using pytest}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{Shelly}{Lightweight UNIX Shell}{Python, Linux}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Stocked}{Stock Market Prediction Engine}{Python, PyTorch, Docker}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Built a modular, testable Python UNIX-style shell with command parsing, built-in commands, environment-variable handling, and I/O redirection using OS-level process and filesystem APIs.}}
+        \resumeItem{\normalsize{Built a Python/PyTorch time-series forecasting service for daily stock prices; engineered data pipelines, backtesting, and Docker-based deployment.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
       \resumeProjectHeading{Synapse}{Adaptive Combat Simulator}{Python, C\#, TensorFlow, Unity}{\href{https://github.com/stephendpurdue/Synapse}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Developed an adaptive combat simulator in Unity using C\#, Python, and TensorFlow, achieving a 75\% win rate against a baseline agent, with overall reward improving from 32\% to 87\%, measured over 30 unique evaluation simulations by successfuly training an ML agent.}}
+        \resumeItem{\normalsize{Implemented a PPO Reinforcement Learning algorithm using C\#, Python, and TensorFlow, achieving a 75\% win rate against a baseline agent over 150 evaluation episodes. Improved normalised episode reward from 0.32 to 0.87 over training.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
@@ -243,32 +244,18 @@
 \section{\color{black}TECHNICAL SKILLS}
  \begin{itemize}[leftmargin=0in, label={}]
     \small{\item{
-    \textbf{\normalsize{Languages:}}{ \normalsize{Python, C\#, C/C++, SQL, Bash, Elixir, TypeScript}} \\
+    \textbf{\normalsize{Languages:}}{ \normalsize{Python, C\#, C/C++, SQL, Bash, TypeScript}} \\
       \vspace{1.2pt}
       
-    \textbf{\normalsize{Technologies:}}{ \normalsize{Linux, Git, REST APIs}} \\
+    \textbf{\normalsize{Technologies:}}{ \normalsize{AWS, CI/CD, Docker, Linux, Git, REST APIs, FastAPI}} \\
       \vspace{1.2pt}
 
-    \textbf{\normalsize{Cloud \& DevOps:}}{ \normalsize{Docker, Kubernetes, AWS, CI/CD}} \\
-      \vspace{1.2pt}
-
-    \textbf{\normalsize{Machine Learning:}}{ \normalsize{ PyTorch, TensorFlow, scikit-learn, NumPy, Pandas}} \\
+    \textbf{\normalsize{Machine Learning:}}{ \normalsize{PyTorch, TensorFlow, scikit-learn, NumPy, Pandas}} \\
       \vspace{1.2pt}
 
      % copy and paste above textbf block to add more 
      }}
  \end{itemize}
- \vspace{-16pt}
-
-%-----------INTERESTS---------------
-\section{\color{black}INTERESTS}
-    
-      \resumeItemListStart
-        \resumeItem{\normalsize{Snowboarding, Competitive Gaming}}
-
-        % copy and paste above resumeItem block to add more 
-      \resumeItemListEnd 
-      
-\vspace{-12pt}
+ \vspace{-16pt} 
 
 \end{document}
