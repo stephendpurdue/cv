@@ -124,10 +124,10 @@
 }
 
 
-\newcommand{\resumeProjectHeading}[4]{
+\newcommand{\resumeProjectHeading}[3]{
     \item
     \begin{tabular*}{1.0\textwidth}{l@{\extracolsep{\fill}}r}
-      \normalsize\textbf{#1} \textbar{} \textit{#2} \textbar{} \textit{#3} & \textbf{\normalsize #4}\\
+      \normalsize\textbf{#1} \textbar{} \textit{#2} & \textbf{\normalsize #3}\\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -156,7 +156,6 @@
 \begin{center}
     {\huge Stephen Purdue} \\ \vspace{2pt} 
   {\fontsize{8.5pt}{10pt}\selectfont
-  07562100909 ~
   -
   London, UK ~
   -
@@ -173,7 +172,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Royal Holloway, University of London}{London, UK}
-      {Master of Science, Artificial Intelligence}{2026 - Expected 2027}
+      {Master of Science, Artificial Intelligence}{Expected Graduation: Sep 2027}
     \vspace{-2pt}
      \resumeSubheading
       {University of Winchester}{Winchester, UK}
@@ -193,7 +192,7 @@
       \resumeItemListStart
             \resumeItem{\normalsize{Sole engineer at an early-stage startup; designed and shipped a scalable all-in-one kitchen management system to track invoices, recipes, and costing using Python, FastAPI, and TypeScript.}}
             \resumeItem{\normalsize{Reduced latency by 76\% by implementing AWS ElastiCache and improved scalability by implementing AWS Load Balancing. Designed and implemented a REST API with error handling and automated tests to support reliable service.}}
-            \resumeItem{\normalsize{Implemented an AWS Lambda function to securely transfer scanned invoice files to Amazon S3, validating file formats and metadata, applying least-privilege IAM permissions, and organising objects by date and business for reliable retrieval and auditability.}}
+            \resumeItem{\normalsize{Secured scanned-invoice transfers to Amazon S3 with an AWS Lambda function, least-privilege IAM permissions, and business-based object organisation for reliable retrieval and auditability.}}
             \resumeItemListEnd  
   
   \resumeSubheading
@@ -211,25 +210,25 @@
  %-----------PROJECTS-----------
 \section{\color{black}PROJECTS}    
     \resumeSubHeadingListStart
-      \resumeProjectHeading{Shelly}{Lightweight UNIX Shell}{Python, Linux}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{UNIX Shell}{Python, Linux}{\href{https://github.com/stephendpurdue/shelly}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
         \resumeItem{\normalsize{Built a modular Python UNIX-style shell with command parsing, built-ins, environment variables, and I/O redirection. Developed unit tests for command parsing, tokenisation, built-in commands, environment-variable expansion, and I/O redirection using pytest}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{Stocked}{Stock Market Prediction Engine}{Python, PyTorch, Docker}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Stock Market Prediction Engine}{Python, PyTorch, Docker}{\href{https://github.com/stephendpurdue/stockmarketpredictor}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
-        \resumeItem{\normalsize{Built a Python/PyTorch time-series forecasting service for daily stock prices; engineered data pipelines, backtesting, and Docker-based deployment.}}
+        \resumeItem{\normalsize{Built a Python/PyTorch daily stock-price forecasting service, engineering its data pipeline, backtesting workflow, and Docker-based deployment.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{Synapse}{Adaptive Combat Simulator}{Python, C\#, TensorFlow, Unity}{\href{https://github.com/stephendpurdue/Synapse}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Adaptive Combat Simulator}{Python, C\#, TensorFlow, Unity}{\href{https://github.com/stephendpurdue/Synapse}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
         \resumeItem{\normalsize{Implemented a PPO Reinforcement Learning algorithm using C\#, Python, and TensorFlow, achieving a 75\% win rate against a baseline agent over 150 evaluation episodes. Improved normalised episode reward from 0.32 to 0.87 over training.}}
       \resumeItemListEnd
       \vspace{-5pt}
 
-      \resumeProjectHeading{Exodus}{Procedural Generation Algorithm}{Unity, C\#}{\href{https://github.com/stephendpurdue/Exodus}{\color{blue}\underline{GitHub}}}
+      \resumeProjectHeading{Procedural Generation Algorithm}{C\#, Unity}{\href{https://github.com/stephendpurdue/Exodus}{\color{blue}\underline{GitHub}}}
       \resumeItemListStart
         \resumeItem{\normalsize{Engineered a scalable procedural generation system in Unity using C\# and Binary Space Partitioning to recursively subdivide space into room layouts and connective corridors in linear time. Reduced level build-time by 77\% by implementing modular, parameter-driven logic. Released on itch.io.}}
       \resumeItemListEnd
@@ -250,7 +249,7 @@
     \textbf{\normalsize{Technologies:}}{ \normalsize{AWS, CI/CD, Docker, Linux, Git, REST APIs, FastAPI}} \\
       \vspace{1.2pt}
 
-    \textbf{\normalsize{Machine Learning:}}{ \normalsize{PyTorch, TensorFlow, scikit-learn, NumPy, Pandas}} \\
+    \textbf{\normalsize{Machine Learning:}}{ \normalsize{PyTorch, TensorFlow, NumPy, Pandas, scikit-learn}} \\
       \vspace{1.2pt}
 
      % copy and paste above textbf block to add more 
